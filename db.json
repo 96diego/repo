@@ -1,0 +1,25 @@
+{
+"posts":	
+[
+	{
+		"name": "Cadman Frank",
+		"text": "auctor. Mauris vel turpis. Aliquam adipiscing lobortis risus. In mi"
+	},
+	{
+		"name": "Rhonda Farley",
+		"text": "Nullam vitae diam. Proin dolor. Nulla semper tellus id nunc"
+	},
+	{
+		"name": "Dolan Bauer",
+		"text": "sed, hendrerit a, arcu. Sed et libero. Proin mi. Aliquam"
+	},
+	{
+		"name": "Caldwell Hayes",
+		"text": "sapien. Nunc pulvinar arcu et pede. Nunc sed orci lobortis"
+	},
+	{
+		"name": "Alexander Garcia",
+		"text": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia"
+	}
+	]
+}
